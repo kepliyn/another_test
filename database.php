@@ -1,6 +1,7 @@
 <?php
 session_start();
-//this is THE function class
+//this is THE function class 
+//and this is a github edit
 class functions
 {
 //all of theese public variables are needed for the constructor
